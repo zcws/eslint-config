@@ -1,6 +1,6 @@
 {
   "name": "@zcw/eslint-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "eslint通用配置",
   "main": "eslint.config.mjs",
   "scripts": {
