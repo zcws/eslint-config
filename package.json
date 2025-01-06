@@ -1,5 +1,5 @@
 {
-  "name": "@zcw/eslint-config",
+  "name": "@zcws/eslint-config",
   "version": "1.0.0",
   "description": "eslint通用配置",
   "main": "eslint.config.mjs",
